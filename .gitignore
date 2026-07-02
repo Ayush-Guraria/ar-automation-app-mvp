@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+chroma_db/
+ar_audit.db
+sample_ar_invoices.csv
+.streamlit/*secrets*
+!.streamlit/secrets.toml.template
